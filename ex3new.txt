@@ -1,0 +1,5 @@
+ex3new.txt, exemple de fichier texte pour tester git
+ ligne 2 de ex3new.txt
+ ligne 3 de ex3new.txt
+ ligne 4 de ex3new.txt
+ ligne 5 de ex3new.txt

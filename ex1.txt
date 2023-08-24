@@ -1,0 +1,4 @@
+exemple de fichier 
+texte pour tester git
+une nouvelle ligne ajoutée pour tester une modif en GIT
+et encore une nouvelle ligne pour tester la branche modifEx1
